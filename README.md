@@ -62,6 +62,6 @@ For GMs, actual play performers, streamers, and anyone who voices characters and
 
 ## Part of the Toolkit
 
-Voicecraft is one of seven tools I built for people who run imaginary worlds. See the full set on [my profile](https://github.com/DarkCandyLord).
+Voicecraft is one of seven tools I built for people who run imaginary worlds. See the full set on [my profile](https://github.com/CandyFlex).
 
 *Every NPC deserves a voice you can actually remember next week.*
